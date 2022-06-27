@@ -1,0 +1,20 @@
+---
+title: "Posts & Files & Varia"
+
+output:
+  html_document:
+    df_print: paged
+---
+
+### Content:
+
+#### Stylometry, Saga Corpus & Egils saga
+
+* [Video](content/MFW_TEST_PNG_LIMITED_VIDEO.mp4): 10-1000 MFW/MFF centered around 5 sagas from SC in order to hypothesize about the influence of the size of the features on authorship conjectures.  
+* [Saga Corpus MDS 3-in-1](content/Saga_corpus_MDS_3in1.html): Saga Corpus 1-, 2-, 3- gram 1000 MFW/MFF visualized with Multidimensional Scaling. Interactive plotly plot.
+
+* [Saga Corpus](https://clarin.is/en/resources/sagacorpus/): Link to the data-set (by Eiríkur Rögnvaldsson & Sigrún Helgadóttir, 2011/2022) at Clarin-IS. If the download issue has not been resolved yet, see: [repository.clarin.is](http:/hdl.handle.net/20.500.12537/32) .
+
+#### Varia
+* My Rosalind profile: [NKCZ at Rosalind](http://rosalind.info/users/nkcz/).
+

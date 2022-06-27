@@ -1,0 +1,18 @@
+---
+title: "Nikola Krisztian Czindrity"
+output: 
+  html_document
+---
+
+*Scandinavian Studies | Quantitative Text Analysis | Biological Anthropology*  
+
+Currently studying Scandinavian Studies and Biological Anthropology at the University of Vienna. 
+
+Mail: cznikolasz@gmail.com or a11907728@unet.univie.ac.at. 
+
+See more content under [Posts](content.html).
+
+  ---
+
+
+

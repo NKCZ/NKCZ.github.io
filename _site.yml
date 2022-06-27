@@ -1,0 +1,14 @@
+name: "nkcz.github.io"
+title: "Personal Webpage"
+author: "NKCZ"
+
+navbar: 
+  title: NKCZ
+  left:
+  - text: Posts
+    href: content.html
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+    css: style.css
