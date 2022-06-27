@@ -12,3 +12,5 @@ output:
     theme: lumen
     highlight: textmate
     css: style.css
+    
+output_dir: "."
