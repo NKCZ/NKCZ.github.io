@@ -26,8 +26,8 @@ output:
     * [PCA 3-gram](content/egla/plots/Saga_Corpus_PCA_3gram_1000MFW.pdf) & [PCA 3-gram plotly](content/egla/plotly/Saga_Corpus_PCA_3Gram.html)
   * Multidimensional Scaling 1000 MFW/MFF:
     * [MDS 1-gram](content/egla/plots/Saga_Corpus_mds_1gram_1000MFW.pdf) & [MDS 1-gram plotly](content/egla/plotly/Saga_Corpus_MDS_1Gram.html)
-    * [MDS 2-gram](content/egla/plots/Saga_Corpus_mds_2gram_1000MFW.pdf) ) & [MDS 2-gram plotly](content/egla/plotly/Saga_Corpus_MDS_2Gram.html)
-    * [MDS 3-gram](content/egla/plots/Saga_Corpus_mds_3gram_1000MFW.pdf) ) & [MDS 3-gram plotly](content/egla/plotly/Saga_Corpus_MDS_3Gram.html)
+    * [MDS 2-gram](content/egla/plots/Saga_Corpus_mds_2gram_1000MFW.pdf) & [MDS 2-gram plotly](content/egla/plotly/Saga_Corpus_MDS_2Gram.html)
+    * [MDS 3-gram](content/egla/plots/Saga_Corpus_mds_3gram_1000MFW.pdf) & [MDS 3-gram plotly](content/egla/plotly/Saga_Corpus_MDS_3Gram.html)
   * Hierarchical Clusters 1000 MFW/MFF:
     * [HCA 1-gram](content/egla/plots/Saga_Corpus_cluster_1gram_1000MFW.pdf)
     * [HCA 2-gram](content/egla/plots/Saga_Corpus_cluster_2gram_1000MFW.pdf)
