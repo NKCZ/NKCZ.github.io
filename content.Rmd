@@ -10,10 +10,29 @@ output:
 
 #### Stylometry, Saga Corpus & Egils saga
 
-* [Video](content/MFW_TEST_PNG_LIMITED_VIDEO.mp4): 10-1000 MFW/MFF centered around 5 sagas from SC in order to hypothesize about the influence of the size of the features on authorship conjectures.  
-* [Saga Corpus MDS 3-in-1](content/Saga_Corpus_MDS_3in1.html): Saga Corpus 1-, 2-, 3- gram 1000 MFW/MFF visualized with Multidimensional Scaling. Interactive plotly plot.
+* [Saga Corpus](https://clarin.is/en/resources/sagacorpus/): Link to the data-set (by Eiríkur Rögnvaldsson & Sigrún Helgadóttir, 2011/2022) at Clarin-IS. If the download issue has not been resolved yet, see: [repository.clarin.is](http:/hdl.handle.net/20.500.12537/32).
 
-* [Saga Corpus](https://clarin.is/en/resources/sagacorpus/): Link to the data-set (by Eiríkur Rögnvaldsson & Sigrún Helgadóttir, 2011/2022) at Clarin-IS. If the download issue has not been resolved yet, see: [repository.clarin.is](http:/hdl.handle.net/20.500.12537/32) .
+* [Saga Corpus MDS 3-in-1](content/egla/Saga_Corpus_MDS_3in1.html): Saga Corpus 1-, 2-, 3-gram 1000 MFW/MFF visualized with Multidimensional Scaling. Interactive plotly plot.
+
+* [Video](content/egla/MFW_TEST_PNG_LIMITED_VIDEO.mp4): 10-1000 MFW/MFF centered around 5 sagas from SC in order to hypothesize about the influence of the size of the features on authorship conjectures.  Using Multidimensional Scaling for dimension reduction.
+
+* [Video](content/egla/MFW_ALL_PNG_VIDEO.mp4): Same as above, but includes all texts. 
+
+* Different plots based on Burrows' Delta distance measures(in PDFs):
+  * All of the bellow and some more: [All-in-one](content/egla/Snippet_from_BA_Egils_Saga_Czindrity.pdf)
+  * PCA 1000 MFW/MFF:
+    * [PCA 1-gram](content/egla/plots/Saga_Corpus_PCA_1gram_1000MFW.pdf)
+    * [PCA 2-gram](content/egla/plots/Saga_Corpus_PCA_2gram_1000MFW.pdf)
+    * [PCA 3-gram](content/egla/plots/Saga_Corpus_PCA_3gram_1000MFW.pdf)
+  * Multidimensional Scaling 1000 MFW/MFF:
+    * [MDS 1-gram](content/egla/plots/Saga_Corpus_mds_1gram_1000MFW.pdf)
+    * [MDS 2-gram](content/egla/plots/Saga_Corpus_mds_2gram_1000MFW.pdf)
+    * [MDS 3-gram](content/egla/plots/Saga_Corpus_mds_3gram_1000MFW.pdf)
+  * Hierarchical Clusters 1000 MFW/MFF:
+    * [HCA 1-gram](content/egla/plots/Saga_Corpus_cluster_1gram_1000MFW.pdf)
+    * [HCA 2-gram](content/egla/plots/Saga_Corpus_cluster_2gram_1000MFW.pdf)
+    * [HCA 3-gram](content/egla/plots/Saga_Corpus_cluster_3gram_1000MFW.pdf)
+    
 
 #### Varia
 * My Rosalind profile: [NKCZ at Rosalind](http://rosalind.info/users/nkcz/).
