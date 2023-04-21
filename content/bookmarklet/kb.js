@@ -81,7 +81,7 @@ function getCookie(vki_bm) {
 }
 var kblang2 = getCookie("vki_bm");
 /* END Bookmarklet adjustment: Get language if cookie exists */
-
+var kblang2 = "Deutsch"
 var VKI_attach, VKI_close;
 (function VKI_buildKeyboardInputs() {
   var self = this;
