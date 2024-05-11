@@ -14,6 +14,11 @@ nikola.krisztian.czindrity@univie.ac.at
 
 - [Poster (PDF)](NKCZ_Poster.pdf)
 
+The lexicon is digitalised at Münchener Digitalisierungs Zentrum:
+
+- [Volume 1](https://mdz-nbn-resolving.de/details:bsb10012362)
+- [Volume 2](https://mdz-nbn-resolving.de/details:bsb10012363)
+
 ## Supplementary Material
 
 Topic Modeling:
