@@ -1,0 +1,36 @@
+---
+title: "DSD 2024"
+
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+---
+Curiositäten- und Memorabilien Lexicon von Wien. Topics and Co-occurence Network of a mid-19th Century Lexicon.
+
+Nikola Krisztian Czindrity (University of Vienna)
+
+nikola.krisztian.czindrity@univie.ac.at
+
+- [Poster (PDF)](NKCZ_Poster.pdf)
+
+## Supplementary Material
+
+Topic Modeling:
+
+- [Explore the t-SNE plot for document x topic with Plotly](tsne_plotly_doc_x_topic.html)
+
+<!--<iframe src="./tsne_plotly_doc_x_topic.html" width="800" height="600"></iframe>-->
+
+- [Explore the t-SNE plot for topic x keyword with Plotly](tsne_plotly_keywords_x_topic.html)
+
+- [Jupyter Notebook for Topic Modelling](Topic_Modeling.ipynb)
+  + [CSV of Document x Topic matrix](doc_x_topic_df.csv)
+  + [CSV of Topic x Keyword matrix](topic_x_keyword_df.csv)
+  + [Mapping of ID and Entry Header](topic_doc.csv)
+
+Network:
+
+- [Jupyter Notebook for creating the network](Networks.ipynb)
+- [Adjacency List](adjacency_list.csv)
+- [Gephi file](Gephi_NKCZ.gephi)

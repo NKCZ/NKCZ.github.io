@@ -40,4 +40,6 @@ output:
 
 - [Sovfilms Network](content/sovfilms/sov_films_network_20230618.html) - A Plotly-Plot of a Network for "Who plays with whom in Soviet films?" ("Wer spielt mit wem in sowjetischen Filmen?"). A university project. The files are available on  my Github profile. The network layout is Fruchterman-Reingold (with basic paramaters, as in `nx.spring_layout(G)`).
 
+- [Data Science Day at U. Vienna](content/dsd2024/DSD2024.html) - Poster and supplementary materials for the event.
+
 -   My Rosalind profile: [NKCZ at Rosalind](https://rosalind.info/users/nkcz/).
