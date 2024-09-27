@@ -2,14 +2,37 @@
 title: "Nikola Krisztian Czindrity"
 output: 
   html_document
+bibliography: references.bib
 ---
 
-*Scandinavian Studies | Quantitative Text Analysis | Biological Anthropology*  
+*Scandinavian Studies \| Quantitative Text Analysis \| Biological Anthropology*
 
-Currently studying Scandinavian Studies, Digital Humanities and Biological Anthropology at the University of Vienna. 
+Currently studying Scandinavian Studies, Digital Humanities and Biological Anthropology at the University of Vienna.
 
-Mail: klausnikolausklaus@gmail.com or nikola.krisztian.czindrity@univie.ac.at. 
+Mail: [klausnikolausklaus\@gmail.com](mailto:klausnikolausklaus@gmail.com){.email} or [nikola.krisztian.czindrity\@univie.ac.at](mailto:nikola.krisztian.czindrity@univie.ac.at){.email}.
 
 See more content under [Posts](content.html).
 
-  ---
+------------------------------------------------------------------------
+
+Quotes, I like:
+
+> A nap első 24 órája a legnehezebb.
+
+> han sitter vid datorn hela dagarna = *an sit nest datorem iel dågǫ*
+
+------------------------------------------------------------------------
+
+```{r, echo = FALSE, warning = FALSE}
+
+library(slickR)
+
+imgNames = paste0("./content/imgs4homepage/", list.files("./content/imgs4homepage", pattern = "jpg$"))
+
+slickR(
+  obj = imgNames, height=350
+)
+
+```
+
+------------------------------------------------------------------------
